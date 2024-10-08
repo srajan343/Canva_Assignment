@@ -26,7 +26,7 @@ header{
     width: 100%;
 }
 .N1 a:hover{
-    color:rgb(79, 136, 79)
+    color:rgb(54, 94, 54)
 }
 
 .heading1{
@@ -39,5 +39,22 @@ header{
 }
 .sectionDiv a{
     text-decoration: none;
+    align-items: center;
 
+}
+.Trail{
+    background-color: rgb(123, 143, 132);
+    height: 30px;
+    width : 260px;
+    text-align: center;
+    padding-top: 14px;
+    color: rgb(255, 255, 255);
+}
+.Subs{
+    background-color: rgb(172, 104, 92);
+    height: 30px;
+    width : 260px;
+    text-align: center;
+    padding-top: 14px;
+    color: rgb(255, 255, 255);
 }
